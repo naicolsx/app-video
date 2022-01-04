@@ -1,0 +1,16 @@
+{
+  "name": "app-video",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "Natalia Fernadez <naicolsx@gmail.com>",
+  "keywords": [
+    "platzi"
+  ],
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
