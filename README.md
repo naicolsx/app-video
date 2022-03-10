@@ -1,5 +1,5 @@
 # 👾🎞️
 
 <div align="center">
-  <img src="./assets/app-video.png" width="50%" alt="Calculator">
+  <img src="./assets/app-video.png" width="100%" alt="Calculator">
 </div>
